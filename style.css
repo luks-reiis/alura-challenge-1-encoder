@@ -67,18 +67,45 @@ main {
     margin: -30px 0px 0px 30px;
 }
 
+.alerta-dica {
+    margin-bottom: 20px;
+}
+
 .simbolo-de-atencao {
     display: inline-block;
+    margin: 0px 5px -3px 0px;
 }
 
 .orientacao-do-texto-inserido {
-    display: inline;
+    font-family: Inter;
+    font-size: 12px;
+    display: inline-block;
+    color: #495057;
 }
 
 .botao-crip {
     cursor: pointer;
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 10px;
+    background-color: #0A3871;
+    border: none;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    color: #FFFFFF;
 }
 
 .botao-descrip {
     cursor: pointer;
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #D8DFE8;
+    border: 1px solid #0A3871;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    color: #0A3871;
 }
