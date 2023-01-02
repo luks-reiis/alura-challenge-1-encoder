@@ -43,3 +43,21 @@ main {
     width: 70%;
     margin: 75px 0px 0px 50px;
 }
+
+.msg-1 {
+    margin: 20px 0px 20px 0px;
+    font-family: Inter;
+    text-align: center;
+    color: #343A40;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%;
+}
+
+.msg-2 {
+    font-family: Inter;
+    text-align: center;
+    color: #495057;
+    font-size: 12px;
+    font-weight: 400;
+}
