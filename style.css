@@ -61,3 +61,24 @@ main {
     font-size: 12px;
     font-weight: 400;
 }
+
+.botoes-e-aviso {
+    display: inline-block;
+    margin: -30px 0px 0px 30px;
+}
+
+.simbolo-de-atencao {
+    display: inline-block;
+}
+
+.orientacao-do-texto-inserido {
+    display: inline;
+}
+
+.botao-crip {
+    cursor: pointer;
+}
+
+.botao-descrip {
+    cursor: pointer;
+}
