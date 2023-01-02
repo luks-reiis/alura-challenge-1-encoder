@@ -19,6 +19,8 @@ main {
     font-family: Inter;
     font-size: 18px;
     background-color: #F3F5FC;
+    color: #0A3871;
+    line-height: 150%;
 }
 
 .input-texto::-webkit-input-placeholder {
