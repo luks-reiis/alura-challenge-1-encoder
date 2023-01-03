@@ -52,7 +52,6 @@ main {
     width: 90%;
     margin: 15px 0px 0px 15px;
     background-color: #FFFFFF;
-    text-align: justify;
 }
 
 .imagem-boneco-procurando {
@@ -125,18 +124,6 @@ main {
     font-weight: 400;
     color: #0A3871;
     margin-right: 10px;
-}
-
-.botao-colar {
-    cursor: pointer;
-    width: 200px;
-    height: 50px;
-    border-radius: 20px;
-    margin-right: 205px;
-    font-family: Inter;
-    font-size: 12px;
-    border: 1px solid #0A3871;
-    color: #0A3871;
 }
 
 .botao-copiar {
