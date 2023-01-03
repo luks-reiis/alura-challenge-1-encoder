@@ -21,3 +21,11 @@ function decrip() {
         document.getElementById("inputTexto").value = "";
     }
 }
+
+function copia() {
+    var textarea = document.getElementById("conteudoTransformado");
+    textarea.removeAttribute("disabled");
+    document.querySelector("#conteudoTransformado").select();
+    document.execCommand("copy");
+    textarea.setAttribute("disabled", true);
+}
