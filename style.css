@@ -101,7 +101,7 @@ main {
 
 .botao-crip {
     cursor: pointer;
-    width: 250px;
+    width: 200px;
     height: 50px;
     border-radius: 20px;
     margin-right: 10px;
@@ -115,7 +115,7 @@ main {
 
 .botao-descrip {
     cursor: pointer;
-    width: 250px;
+    width: 200px;;
     height: 50px;
     border-radius: 20px;
     background-color: #D8DFE8;
@@ -124,6 +124,31 @@ main {
     font-size: 12px;
     font-weight: 400;
     color: #0A3871;
+    margin-right: 10px;
+}
+
+.botao-colar {
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 205px;
+    font-family: Inter;
+    font-size: 12px;
+    border: 1px solid #0A3871;
+    color: #0A3871;
+}
+
+.botao-copiar {
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    font-family: Inter;
+    font-size: 12px;
+    border: 1px solid #0A3871;
+    color: #0A3871;
+    margin-top: 10px;
 }
 
 footer {
