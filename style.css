@@ -12,7 +12,7 @@ main {
     margin-right: 160px;
 }
 
-.input-texto {  
+#inputTexto {  
     border: none;
     resize: none;
     width: 100%;
@@ -26,11 +26,11 @@ main {
     line-height: 150%;
 }
 
-.input-texto::-webkit-input-placeholder {
+#inputTexto::-webkit-input-placeholder {
     color: #0A3871;
 }
 
-.texto-transformado {
+#textoTransformado {
     display: inline-block;
     background-color: #FFFFFF;
     width: 25%;
@@ -38,6 +38,20 @@ main {
     vertical-align: top;
     box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
     border-radius: 32px;
+}
+
+#conteudoTransformado {
+    display: none;
+    border: none;
+    resize: none;
+    font-family: Inter;
+    font-size: 18px;
+    color: #495057;
+    line-height: 150%;
+    height: 90%;
+    width: 90%;
+    margin: 15px 0px 0px 15px;
+    background-color: #FFFFFF;
 }
 
 .imagem-boneco-procurando {
