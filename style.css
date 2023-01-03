@@ -52,6 +52,7 @@ main {
     width: 90%;
     margin: 15px 0px 0px 15px;
     background-color: #FFFFFF;
+    text-align: justify;
 }
 
 .imagem-boneco-procurando {
